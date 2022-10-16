@@ -26,3 +26,4 @@ contract Hi {
 	 	age = _age;
 	}
 }
+//Note to myself: please pass name and age in constructor deploy button in remix when deploying.
