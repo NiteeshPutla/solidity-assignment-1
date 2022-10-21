@@ -8,7 +8,7 @@ contract Hi {
 
 	constructor(string memory _name, uint8 _age)  {
 		name = _name;
-         age =_age;
+                age =_age;
 	}
 
 	function getName() external view returns(string memory) {
